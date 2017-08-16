@@ -32,6 +32,18 @@ use Capture::Tiny qw( capture );
 
 =head1 DESCRIPTION
 
+
+B<NOTE>: This plugin is in the process of being merged into the L<Alien::Build> core.  As such, please report any
+bugs / submit any patches to its github:
+
+=over 4
+
+=item L<https://github.com/Perl5-Alien/Alien-Build/issues>
+
+=item L<https://github.com/Perl5-Alien/Alien-Build/pulls>
+
+=back
+
 This plugin helps build alienized projects that use C<cmake>.
 The intention is to make this a core L<Alien::Build> plugin if/when
 it becomes stable enough.

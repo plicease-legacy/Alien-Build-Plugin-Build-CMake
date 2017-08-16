@@ -24,6 +24,12 @@ CMake plugin for Alien::Build
 
 # DESCRIPTION
 
+**NOTE**: This plugin is in the process of being merged into the [Alien::Build](https://metacpan.org/pod/Alien::Build) core.  As such, please report any
+bugs / submit any patches to its github:
+
+- [https://github.com/Perl5-Alien/Alien-Build/issues](https://github.com/Perl5-Alien/Alien-Build/issues)
+- [https://github.com/Perl5-Alien/Alien-Build/pulls](https://github.com/Perl5-Alien/Alien-Build/pulls)
+
 This plugin helps build alienized projects that use `cmake`.
 The intention is to make this a core [Alien::Build](https://metacpan.org/pod/Alien::Build) plugin if/when
 it becomes stable enough.
